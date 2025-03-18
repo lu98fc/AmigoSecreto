@@ -40,7 +40,9 @@ AmigoSecreto/
 ├── app.js            <!-- Lógica de la aplicación -->
 
 ├── assets/           <!-- Carpeta de recursos gráficos -->
-    └── amigo-secreto.png
+   
+   └── amigo-secreto.png 
+
 - Tecnologías Utilizadas
 HTML5: Para estructurar la interfaz.
 

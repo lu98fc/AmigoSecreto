@@ -14,7 +14,7 @@
 
 2. Clona este repositorio:
    ```bash
-git clone https://github.com/lu98fc/AmigoSecreto.git
+   git clone https://github.com/lu98fc/AmigoSecreto.git
 
 3. Navega al directorio del proyecto:
 

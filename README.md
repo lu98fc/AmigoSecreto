@@ -1,8 +1,8 @@
 # Amigo Secreto
 
-¡Bienvenido al proyecto "Amigo Secreto"! Esta aplicación te permite organizar un sorteo de "amigo secreto" de forma fácil y divertida.
+¡Bienvenido al proyecto "Amigo Secreto"! Esta aplicación te permite organizar un sorteo de "amigo secreto" de forma Facil para el que realizara el sorteo
 
-## Funcionalidades
+1. Funcionalidades
 
 - Agregar nombres de amigos a una lista.
 - Validar que no se ingresen nombres duplicados ni vacíos.
@@ -12,14 +12,15 @@
 
 ## Instalación
 
-1. Clona este repositorio:
+2. Clona este repositorio:
    ```bash
-   git clone https://github.com/lu98fc/AmigoSecreto.git
-2. Navega al directorio del proyecto:
+git clone https://github.com/lu98fc/AmigoSecreto.git
+
+3. Navega al directorio del proyecto:
 
 bash
 
-3. Abre el archivo index.html en tu navegador web para iniciar la aplicación.
+4. Abre el archivo index.html en tu navegador web para iniciar la aplicación.
 
 --Uso
 *Escribe el nombre de tus amigos en el campo de texto y haz clic en "Añadir".
@@ -30,22 +31,22 @@ bash
 
 *La lista se vaciará automáticamente al finalizar el sorteo.
 
-4. Estructura del Proyecto
+5. Estructura del Proyecto
 AmigoSecreto/
 
-├── index.html        <!-- Estructura principal de la interfaz -->
+├── index.html       (Estructura principal de la interfaz) 
 
-├── style.css         <!-- Estilos de la aplicación -->
+├── style.css        ( Estilos de la aplicación)
 
-├── app.js            <!-- Lógica de la aplicación -->
+├── app.js           (Lógica de la aplicación)
 
-├── assets/           <!-- Carpeta de recursos gráficos -->
+├── assets/          (Carpeta de recursos gráficos)
           
    └── amigo-secreto.png 
    
    └── start.png 
   
-5. Tecnologías Utilizadas
+6. Tecnologías Utilizadas
 
 * HTML5: Para estructurar la interfaz.
 

@@ -39,7 +39,7 @@ AmigoSecreto/
 
 ├── app.js            <!-- Lógica de la aplicación -->
 
-├── assets/ <!-- Carpeta de recursos gráficos -->
+├── assets/           <!-- Carpeta de recursos gráficos -->
           
    └── amigo-secreto.png 
    
@@ -47,8 +47,9 @@ AmigoSecreto/
   
 
 - Tecnologías Utilizadas
-HTML5: Para estructurar la interfaz.
 
-CSS3: Para los estilos visuales.
+* HTML5: Para estructurar la interfaz.
 
-JavaScript : Para la lógica del sorteo y la interacción.
+* CSS3: Para los estilos visuales.
+
+* JavaScript : Para la lógica del sorteo y la interacción.

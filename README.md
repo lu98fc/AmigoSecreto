@@ -32,9 +32,13 @@ La lista se vaciará automáticamente al finalizar el sorteo.
 
 - Estructura del Proyecto
 AmigoSecreto/
+
 ├── index.html        <!-- Estructura principal de la interfaz -->
+
 ├── style.css         <!-- Estilos de la aplicación -->
+
 ├── app.js            <!-- Lógica de la aplicación -->
+
 ├── assets/           <!-- Carpeta de recursos gráficos -->
     └── amigo-secreto.png
 - Tecnologías Utilizadas

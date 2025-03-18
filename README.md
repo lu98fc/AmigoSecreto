@@ -21,16 +21,16 @@ bash
 
 3. Abre el archivo index.html en tu navegador web para iniciar la aplicación.
 
-Uso
-Escribe el nombre de tus amigos en el campo de texto y haz clic en "Añadir".
+--Uso
+*Escribe el nombre de tus amigos en el campo de texto y haz clic en "Añadir".
 
-Los nombres aparecerán en una lista. Si hay al menos dos nombres, podrás realizar el sorteo.
+* Los nombres aparecerán en una lista. Si hay al menos dos nombres, podrás realizar el sorteo.
 
-Haz clic en "Sortear amigo" para mostrar el nombre del amigo secreto seleccionado aleatoriamente.
+*Haz clic en "Sortear amigo" para mostrar el nombre del amigo secreto seleccionado aleatoriamente.
 
-La lista se vaciará automáticamente al finalizar el sorteo.
+*La lista se vaciará automáticamente al finalizar el sorteo.
 
-- Estructura del Proyecto
+4. Estructura del Proyecto
 AmigoSecreto/
 
 ├── index.html        <!-- Estructura principal de la interfaz -->
@@ -45,8 +45,7 @@ AmigoSecreto/
    
    └── start.png 
   
-
-- Tecnologías Utilizadas
+5. Tecnologías Utilizadas
 
 * HTML5: Para estructurar la interfaz.
 

@@ -39,9 +39,11 @@ AmigoSecreto/
 
 ├── app.js            <!-- Lógica de la aplicación -->
 
-├── assets/           <!-- Carpeta de recursos gráficos -->
-          └── amigo-secreto.png 
-          └── start.png 
+├── assets/ <!-- Carpeta de recursos gráficos -->
+          
+   └── amigo-secreto.png 
+   
+   └── start.png 
   
 
 - Tecnologías Utilizadas
